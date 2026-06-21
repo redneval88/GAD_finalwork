@@ -43,3 +43,4 @@ Unreal 侧：Project Settings 中新增四种 Surface Type，分别创建 Physic
 ## 三、GitHub 仓库
 
 项目工程、Wwise 工程及说明文档已上传至个人 GitHub 公开仓库：
+https://github.com/redneval88/GAD_finalwork
